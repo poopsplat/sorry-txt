@@ -25,3 +25,9 @@ I know this apology is probably of little consolation to you, but I wanted you t
 
 Best of luck,
 Pat.
+
+=========
+
+Have examples of a `sorry.txt` you've written or found in a project? Submit a pull request to add them to the `examples` directory!
+
+Inspired by a conversation I had with [@natebeaty](https://twitter.com/natebeaty)
