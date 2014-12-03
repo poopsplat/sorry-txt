@@ -14,7 +14,6 @@ For these situations, when you might be a little embarrassed about the code you'
 * If you intentionlly write crappy code 'cause you just don't care, include this anyway, it might give the illusion that you care.
 
 ### Example
-
 =========
 
 Dear Developer,
