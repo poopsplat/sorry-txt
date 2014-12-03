@@ -1,7 +1,7 @@
 Sorry.txt
 =========
 
-**A sorry note to developers for the crappy code you might be leaving them with.**
+**A sorry note you leave for other developers for the crappy code you might be leaving them with.**
 
 We have all been there — we are handed a project with a tiny budget and a tiny timeline, and you just have to get the thing done. Or there _was_ a decent budget and timeline but it got cut short and you have to scrap together what you can to get the thing out the door. 
 
